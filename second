@@ -5,3 +5,4 @@ hi stage or unstage
 test git push -f origin test2
 
 now lets push force
+ordinary push after force
