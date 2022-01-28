@@ -1,3 +1,5 @@
 ff
 new line
 hi stage or unstage
+
+test git push -f origin test2
